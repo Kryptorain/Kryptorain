@@ -1,6 +1,9 @@
-![logo](https://github.com/codewithkryptora/CodeWithKryptora/blob/main/header_gif.gif)
+![logo](https://github.com/Kryptorain/Kryptorain/blob/main/header_gif.gif)
+
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+
+<img align="right" alt="Kryptora" width="400" src="https://github.com/Kryptorain/Kryptorain/blob/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithkryptora&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkryptora" /> </p>
 
